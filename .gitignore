@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Large files & media
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.rar
+*.zip
+*.tar.gz
+
+# Secrets & credentials
+secret.txt
+secrets.json
+.env
+*.pem
+*.key
+
+# Data & logs
+*.log
+data/
+logs/
+.ipynb_checkpoints/

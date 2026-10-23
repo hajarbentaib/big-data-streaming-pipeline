@@ -1,0 +1,6 @@
+kafka-python>=2.0.2
+apache-flink>=1.17.0
+elasticsearch>=7.17.0,<8.0.0
+tweepy>=4.14.0
+pydoop>=2.0.0
+requests>=2.31.0
